@@ -1,0 +1,32 @@
+{
+    "fps": [
+        {
+            "name": "Call of Duty: Warzone",
+            "sku": "COD_WARZONE",
+            "price": 59.99,
+            "description": "Multiplayer shooter that puts players in the heart of battle.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20o8.webp"
+        },
+        {
+            "name": "Battlefield 4",
+            "sku": "BF4",
+            "price": 49.99,
+            "description": "First person shooter that allows players to experience intense multiplayer combat.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1nmf.webp"
+        },
+        {
+            "name": "Fortnite",
+            "sku": "FORTNITE",
+            "price": 29.99,
+            "description": "Battle royale game that puts players in a team battle against other players.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ekt.webp"
+        },
+        {
+            "name": "Call of Duty: Modern Warfare",
+            "sku": "COD_MW",
+            "price": 59.99,
+            "description": "Multiplayer shooter that puts players in the heart of battle.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rsg.webp"
+        }
+    ]
+}

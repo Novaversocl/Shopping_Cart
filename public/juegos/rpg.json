@@ -1,0 +1,32 @@
+{
+    "rpg": [
+        {
+            "name": "World of Warcraft",
+            "sku": "WOW",
+            "price": 59.99,
+            "description": "Massively Multiplayer Online Role-Playing Game (MMORPG).",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l7z.webp"
+        },
+        {
+            "name": "Dark Souls III",
+            "sku": "DARK_SOULS_III",
+            "price": 49.99,
+            "description": "Role-Playing Game (RPG) with heavy emphasis on exploration and combat.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vcf.webp"
+        },
+        {
+            "name": "The Witcher 3: Wild Hunt",
+            "sku": "WITCHER_3",
+            "price": 59.99,
+            "description": "Role-Playing Game (RPG) with a focus on combat and exploration.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.webp"
+        },
+        {
+            "name": "Path of Exile",
+            "sku": "PATH_OF_EXILE",
+            "price": 29.99,
+            "description": "MMORPG where players take on the role of an artful thief in a world full of treasures.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1n6w.webp"
+        }
+    ]
+}

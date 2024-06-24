@@ -1,0 +1,32 @@
+{
+    "principal": {
+        "destacados": [
+            {
+                "name": "Fortnite",
+                "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ekt.webp"
+            },
+            {
+                "name": "Formula 1 2024",
+                "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co845w.webp"
+            },
+            {
+                "name": "World of Warcraft",
+                "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l7z.webp"
+            }
+        ],
+        "categorias": [
+            {
+                "name": "fps",
+                "description": "Juegos de disparos a distancia. Estos juegos permiten a los jugadores controlar armas y realizar disparos en tiempo real, lo que les permite competir en partidas individuales o multijugador."
+            },
+            {
+                "name": "rpg",
+                "description": "Juegos de rol. Estos juegos permiten a los jugadores crear personajes y explorar mundos virtuales, interactuar con otros jugadores y resolver aventuras."
+            },
+            {
+                "name": "racing",
+                "description": "Juegos de carreras. Estos juegos permiten a los jugadores controlar vehículos y competir en carreras, utilizando diversas técnicas como aceleración, frenado y maniobras."
+            }
+        ]
+    }
+}

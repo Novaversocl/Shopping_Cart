@@ -1,0 +1,32 @@
+{
+    "racing": [
+        {
+            "name": "Forza Horizon 5",
+            "sku": "FORZA_HORIZON_5",
+            "price": 59.99,
+            "description": "Action-adventure game that puts players on a beautiful open world.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ofx.webp"
+        },
+        {
+            "name": "Assetto Corsa",
+            "sku": "ASSETTO_CORSA",
+            "price": 39.99,
+            "description": "Driving simulation game that puts players in a realistic race environment.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wib.webp"
+        },
+        {
+            "name": "Formula 1 2024",
+            "sku": "FORMULA_ONE_2024",
+            "price": 99.99,
+            "description": "Formula One simulation game with realistic physics and stunning graphics.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co845w.webp"
+        },
+        {
+            "name": "Need for Speed: Heat",
+            "sku": "NFS_HEAT",
+            "price": 29.99,
+            "description": "Action-adventure game that puts players in the heart of the action.",
+            "image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co209t.webp"
+        }
+    ]
+}
