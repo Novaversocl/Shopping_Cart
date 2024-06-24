@@ -1,4 +1,4 @@
-# ayudantia-certificacion
+# Shopping_Cart
 
 ## Project setup
 ```
